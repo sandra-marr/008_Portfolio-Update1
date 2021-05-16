@@ -85,7 +85,7 @@ h1, h2, h5 {
     border-radius: 1em;
     transition: ease-in-out;
     display: block;
-    margin: 1rem 1rem;
+    margin: .5rem 1rem;
     text-decoration: none;
     transition: ease-in-out;
 }
