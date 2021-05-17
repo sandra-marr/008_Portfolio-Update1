@@ -2,8 +2,24 @@
 
 ## Web Development Portfolio Update - Sandy Marr
 
-## Under Construction...
+### Updates
+Initially when the UW Coding Bootcamp assigned a portfolio development after only two weeks, I was confused. I didn't have the content to build a portolio yet. There was only one homework assignment under my belt, no projects, and my skills were still very limited and new.
 
+Now on week nine of the course, it is clear how useful that first portfolio was to see how much I have learned and developed since. This update to my portfolio includes a streamlined design, a mobile friendly interface, and samples of work. I chose to use bootstrap on this update and it's associated javascript functionality. At this time, it did not seem necessary to implement more of my own javascript functionality or other APIs, however those are options for growth and expansion in the future. 
+
+## Tools
+To complete this application, the following tools were used: 
+* HTML
+* CSS
+    * Bootstrap
+* Javascript
+* jQuery
+
+## Demo
+
+![portfolio demo](./assets/images/Preview.gif)
+
+![mobile responsive demo](./assets/images/MobilePreview.gif)
 
 Dive in! https://sandra-marr.github.io/Homework08/
 

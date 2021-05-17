@@ -9,3 +9,10 @@ $('.preview').mouseout( function() {
 
     $(this).css("background-color", "#DADED4").css("color", "#3C403D")
 });
+
+$('.autocollapse').on("click", function (){
+    $('#navbarNavDropdown').removeClass('show')
+    console.log("hello")
+
+    $('.navbar-toggler').addClass('collapsed')    
+})
