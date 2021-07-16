@@ -21,7 +21,7 @@ To complete this application, the following tools were used:
 
 ![mobile responsive demo](./assets/images/MobilePreview.gif)
 
-Dive in! https://sandra-marr.github.io/Homework08/
+Dive in! https://sandra-marr.github.io/008_Portfolio-Update1/
 
 ## MIT License
 
