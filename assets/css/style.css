@@ -19,7 +19,7 @@ h1, h2, h5 {
 
 
 .landing-page {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://sandra-marr.github.io/Homework02/assets/images/background.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://sandra-marr.github.io/008_Portfolio-Update1/assets/images/background.jpg");
     width: 100%;
     height: auto;
     background-position: center;
@@ -29,7 +29,7 @@ h1, h2, h5 {
 }
 
 .main-page {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://sandra-marr.github.io/Homework02/assets/images/background.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://sandra-marr.github.io/008_Portfolio-Update1/assets/images/background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -164,4 +164,19 @@ h1, h2, h5 {
     .dropdown-item {
         font-size: .75rem !important;
     }
+
+    
+  }
+
+  @media only screen and (max-width: 839px) and (min-width: 576px) {
+   h5 {
+        font-size: .75rem;
+    }
+
+    .responsive-img {
+        font-size: .5rem;
+    }
+
+
+    
   }
